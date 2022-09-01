@@ -4,6 +4,8 @@ This document provides some reference codes using general SQL syntax for data qu
 
 The following documents are provided in this repository:
 
-1. SQL_Reference-Codes-for-Data-Queries.docx: Word document for SQL reference codes
+1. SQL_Reference-Codes-for-Data-Queries.docx:
+    * Word document for SQL reference codes
 
-2. PostgreSQL with Python.ipynb: Reference codes for connecting to PostgreSQL database using Python's psycopg2 package
+2. PostgreSQL with Python.ipynb:
+    * Reference codes for connecting to PostgreSQL database using Python's psycopg2 package
